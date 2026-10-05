@@ -1,0 +1,13 @@
+{
+  "Synthesis_Route": [
+    "DC",
+    "DMD",
+    "IM",
+    "S_T4",
+    "S_T6"
+  ],
+  "Hot_Cold_Working": [
+    "CR",
+    "CW"
+  ]
+}
